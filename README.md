@@ -10,10 +10,10 @@ The dataset used in this project is either fictional or anonymized real-world da
 
 
 ## Technologies Used
-Microsoft Excel: Core tool used for dashboard creation, analysis, and visualization.
-Pivot Tables & Charts: To summarize and display data dynamically.
-Slicers: For easy filtering and interactivity.
-Conditional Formatting: To highlight key data trends.
+- Microsoft Excel: Core tool used for dashboard creation, analysis, and visualization.
+- Pivot Tables & Charts: To summarize and display data dynamically.
+- Slicers: For easy filtering and interactivity.
+- Conditional Formatting: To highlight key data trends.
 
 ## Contributions
 Contributions are welcome! If you have suggestions or want to improve the dashboard, feel free to open a pull request or submit an issue.
